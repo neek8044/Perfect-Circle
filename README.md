@@ -1,13 +1,15 @@
 # Perfect-Circle
-Make a perfect circle on neal.fun with ~99% accuracy
+Draw a perfect circle on [neal.fun](https://neal.fun) with ~99% accuracy
 
 ### Dependencies 📚
 - Python 3.x ([https://python.org](https://python.org))
 - Pyautogui (To install run `pip install pyautogui` or `pip3 install pyautogui`)
 
 ### How to use 📜
-- Launch a terminal and get the command to run the script ready (`python main.py` or `python3 main.py`)
+- Launch a terminal and get the command ready (`python main.py` or `python3 main.py`)
 - Open [https://neal.fun/perfect-circle/](https://neal.fun/perfect-circle/) in a new tab and make it fullscreen
+- Run the command and switch focus to the browser again. (Make sure it is fullscreen)
+- Wait for around 5 seconds.
 
 ### Troubleshooting 🛠️
 #### Cannot run python or pip
